@@ -1,0 +1,27 @@
+{
+  "name": "TaskFlow Pro",
+  "short_name": "TaskFlow",
+  "description": "Local-first task manager with time tracking.",
+  "start_url": "/taskflow-pro/",
+  "scope": "/taskflow-pro/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#3b82f6",
+  "categories": [
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/taskflow-pro/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/taskflow-pro/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
